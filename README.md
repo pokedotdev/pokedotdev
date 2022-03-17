@@ -5,11 +5,11 @@
       <b><samp>Hola 👋, I'm <del>Arturo, aka</del> Poke.</samp></b>
       <br>
       <samp>
-        <a href="https://twitter.com/pokedotdev">Twitter</a>
+        <a target="_blank" href="https://twitter.com/pokedotdev">Twitter</a>
         ·
-        <a href="https://poke.dev">Site</a>
+        <a target="_blank" href="https://poke.dev">Site</a>
         ·
-        <a href="https://www.codewars.com/users/pokedotdev">Codewars</a>
+        <a target="_blank" href="https://www.codewars.com/users/pokedotdev">Codewars</a>
       </samp>
       <img
         src="https://komarev.com/ghpvc/?username=pokedotdev&color=000000&style=flat&label=👀"
