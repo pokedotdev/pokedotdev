@@ -1,9 +1,9 @@
-<table>
-  <tbody>
-    <td align="center">
-      <img width="2000" height="0" /><br>
-      <b><samp>Hola 👋, I'm <del>Arturo, aka</del> Poke.</samp></b>
-      <img width="2000" height="0" />
-    </td>
-  </tbody>
-</table>
+<p align="center">
+  <samp>
+    <b><samp>Hola 👋, I'm <del>Arturo, aka</del> Poke.</samp></b>
+    <br>
+    <a href="https://poke.dev">me</a> .
+    <a href="https://twitter.com/pokedotdev">tweets</a> .
+    <a href="https://www.codewars.com/users/pokedotdev">codewars</a>
+  </samp>
+</p>
